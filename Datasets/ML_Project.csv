@@ -1,0 +1,7 @@
+﻿model_name,accuracy_train,accuracy_test,difference,f1_score,precision,recall,auc_score
+Logistic_Regression,0.75,0.74,0.01,0.712,0.72,0.7,0.805
+Support_Vector_Machine,0.75,0.75,0,0.72,0.73,0.716,0.811
+AdaBoost_Classifier,0.98,0.81,0.17,0.796,0.7939,0.7986,0.848
+Gradient_Boosting,1,0.83,0.17,0.817,0.819,0.8165,0.893
+K_Nearest_Neighbors,1,0.82,0.18,0.796,0.802,0.7911,0.899
+Decision_Trees,0.74,0.73,0.01,0.71,0.71,0.711,0.776
