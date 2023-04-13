@@ -1,5 +1,4 @@
 # Machine-Learning-Project
-This project was a part of the CS6375 course offered at The University of Texas at Dallas
 Project Topic -- Prediction of Wine Quality on the basis of some physiochemical parameters. 
 In this project, we will discuss the dataset, preprocess it, analyse it, run algorithms on it and then evaluate the performance of the algorithms(advantages, pitfalls,etc).
 Following points are to be noted about the project:
