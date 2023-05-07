@@ -6,4 +6,4 @@ Following points are to be noted about the project:
   2. The Data preprocessing is done in DataPreprocessing.ipynb file
   3. Comparison and evaluation of algorithms is done in Evaluation.ipynb file.
   4. All the algorithms are combined in the MLAlgorithms.ipynb file.
-  5. The 'Datasets' folder consists of the original kaggle dataset, the preprocessed wine quality dataset and the performance metrics of the ML Algorithms which we ran.
+  5. The 'Datasets' folder consists of the original kaggle dataset, the preprocessed wine quality dataset and the performance metrics of the ML Algorithms which I ran.
